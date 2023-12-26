@@ -1,0 +1,26 @@
+<svg width="1280" height="1662" viewBox="0 0 1280 1662" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="831" width="1281" height="831" fill="black"/>
+<path d="M1 0H1281V832H1V0Z" fill="url(#paint0_linear_5_108)"/>
+<g style="mix-blend-mode:color">
+<path d="M1 0H1281V832H1V0Z" fill="url(#paint1_radial_5_108)"/>
+</g>
+<g style="mix-blend-mode:overlay">
+<path d="M1 0H1281V832H1V0Z" fill="url(#paint2_linear_5_108)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5_108" x1="641" y1="0" x2="641" y2="832" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9A9A9A" stop-opacity="0.42"/>
+<stop offset="1"/>
+</linearGradient>
+<radialGradient id="paint1_radial_5_108" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 910) rotate(-130.89) scale(1203.76 1851.94)">
+<stop/>
+<stop offset="0.333333" stop-color="#8604EC" stop-opacity="0.808268"/>
+<stop offset="0.645833" stop-color="#FF0000"/>
+<stop offset="1" stop-color="#2400FF" stop-opacity="0.78"/>
+</radialGradient>
+<linearGradient id="paint2_linear_5_108" x1="641" y1="0" x2="641" y2="832" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9A9A9A" stop-opacity="0.42"/>
+<stop offset="1"/>
+</linearGradient>
+</defs>
+</svg>
